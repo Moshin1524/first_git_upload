@@ -7,4 +7,19 @@ for repo file initialize first
 
 ==>git init
 
- 
+for to add all the file containing in the current folder
+
+==>git add .
+
+for to commiting the update which means rapup term
+
+==>git commit -m "first commit"
+
+git branch -M main
+for identify the link address for the repo upload
+
+==>git remote add origin https://github.com/Moshin1524/first_git_upload.git
+
+Now for to push the upload in github
+
+==>git push -u origin main
