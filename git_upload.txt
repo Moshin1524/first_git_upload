@@ -1,0 +1,10 @@
+First term repository creation README file
+
+==> echo "# first_git_upload" >> README.md
+
+
+for repo file initialize first
+
+==>git init
+
+ 
